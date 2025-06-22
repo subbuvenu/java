@@ -4,7 +4,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-### STS ###
+### STssS ###
 .apt_generated
 .classpath
 .factorypath
